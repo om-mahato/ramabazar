@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rama Bazar</string>
+    <string name="action_settings">Setting</string>
+    <string name="press_back_again">Press Back again to exit.</string>
+</resources>
